@@ -1,0 +1,10 @@
+Package: RandLetter
+Title: This package contains a function to randomly chose a number of letter
+Version: 0.0.0.9000
+Authors@R: person("Prayogi", "Egi", email = "eprayogi@luc.edu", role = c("aut", "cre"))
+Description: This package contains function to randomly chose a number of letter
+Depends: R (>= 3.4.1)
+License: LUC
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 6.0.1
